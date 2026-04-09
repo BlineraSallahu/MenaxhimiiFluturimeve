@@ -25,7 +25,7 @@ A flight departs from and arrives at airports
 A passenger can have multiple bookings
 A booking is linked to a specific flight
 Airplane is assigned to flights
-🛠️ Technologies Used
+Technologies Used
 PostgreSQL
 SQL (DDL, DML, DQL)
 pgAdmin / psql (for database management)
